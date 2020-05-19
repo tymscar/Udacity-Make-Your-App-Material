@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <color name="photo_placeholder">#ccc</color>
 
     <color name="theme_primary">#4CAF50</color>
@@ -23,5 +23,5 @@
     <color name="theme_accent">#8BC34A</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="textColor">#212121</color>
-    <color name="cardview_dark_background">#C8E6C9</color>
+    <color name="cardview_dark_background" tools:ignore="PrivateResource">#C8E6C9</color>
 </resources>
